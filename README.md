@@ -141,4 +141,4 @@ Kết quả thu được khi chạy game
 
     - Dễ dàng sử dụng, không lệ thuộc vào bên thứ ba, không yêu cầu quyền truy cập.
     - Độ chính xác trung bình nhưng vẫn đủ để đáp ứng yêu cầu vì game của mình cho phép người dùng chơi offline.
-    - Người dùng cũng ít khi thay đổi vùng thiết bị (hoặc để vùng tự động)
+    - Người dùng cũng ít khi thay đổi vùng thiết bị (hoặc để vùng tự động) vì thường khi thay đổi vùng sẽ bị sai giờ trong máy và có thể không sử dụng được internet.
